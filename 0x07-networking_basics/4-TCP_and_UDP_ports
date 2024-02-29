@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Displyas listening ports
+
+netstat -l --program
